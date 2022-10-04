@@ -1,12 +1,3 @@
 [submodule "rock"]
 	path = rock
 	url = https://github.com/jn-un/JNUN-By-law_ja
-[submodule "ja"]
-	path = ja
-	url = https://github.com/jn-un/JNUN-By-law_ja
-[submodule "zh-TW"]
-	path = zh-TW
-	url = https://github.com/jn-un/JNUN-By-law_zh-TW
-[submodule "zh-CN"]
-	path = zh-CN
-	url = https://github.com/jn-un/JNUN-By-law_zh-CN
