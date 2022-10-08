@@ -1,1 +1,1 @@
-# JNUN-By-law
+# JNUN-By-law_zh-CN

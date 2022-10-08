@@ -1,0 +1,3 @@
+Engineering plan
+=======
+``E`` (Engineering Group,Openness Engineering Group) is a general term for multiple proposals, and its release of an engineering plan also needs to publish an engineering plan type proposal to express the purpose of the engineering plan and the proposals included, usually engineering. After the plan is released, its working group will be created to be responsible for the implementation of this type of plan.

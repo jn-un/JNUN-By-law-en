@@ -1,0 +1,3 @@
+Supervisory Board
+=====
+The Supervisory Board is the joint current supervision and guidance body, corresponding to the executive body, and is divided into two functional departments: the Science and Technology Steering Group and the Culture and Communication Steering Group. Functions that do not establish their subsidiary working groups. By working on the community under the framework of the decentralized decision-making process, we rely on the decentralized decision-making process to solve problems for different problems and other perspectives.
